@@ -33,5 +33,4 @@ Metrics:
   2. test data set ->  r2_score: 0.84  |    mse: 13.93  |  rmse: 3.73  |   mae: 2.55 |   mape: 0.14
   3. Cross Validation Accurracy (r2_score): 0.84 (+/- 0.04)
 
-![Feature correlation](https://github.com/pranaymodukuru/Concrete-compressive-strength/blob/master/imgs/corr.png)
-
+![Summary Charts](https://github.com/giomvp/BostonHousesPricePrediction/img/summary_plt.jpg)
