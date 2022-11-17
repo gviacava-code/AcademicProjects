@@ -25,7 +25,7 @@ Algorithms were selected following scikit-learn algorithm cheat-sheet
 
 ## 4. Results
 
-Random forest (rf) Shows good and consistent performance results as this model explains **84% (r2_score)** of the variability in the price through its independent variables and can make predictions within **~14% (mape)** of the price value on average.
+**Random forest (rf)** Shows good and consistent performance results as this model explains **84% (r2_score)** of the variability in the price through its independent variables and can make predictions within **~14% (mape)** of the price value on average.
 
 Metrics:
 
