@@ -34,3 +34,6 @@ Metrics:
   3. Cross Validation Accurracy (r2_score): 0.84 (+/- 0.04)
 
 ![Summary Charts](https://github.com/giomvp/AcademicProjects/blob/5b36cf9a000eec3c52c64a75badea0b29f95c820/BostonHousesPricePrediction/img/summary_plt.jpg)
+
+Complete model selection analysis [here](BostonHousesPricePrediction/BostonHousePricePrediction.ipynb).
+
