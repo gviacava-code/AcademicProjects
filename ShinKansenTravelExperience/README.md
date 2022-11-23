@@ -35,6 +35,6 @@ Algorithms were selected following scikit-learn algorithm cheat-sheet flow chart
 
 This *Accuracy* factor shows the model is able to predict 95% of observations. A Precision and Recall of also 95, indicate this model is correctly classifying labels at a very high ratio.
 
-![Summary Charts](https://github.com/giomvp/AcademicProjects/blob/5b36cf9a000eec3c52c64a75badea0b29f95c820/BostonHousesPricePrediction/img/summary_plt.jpg)
+![Summary Charts](https://github.com/giomvp/AcademicProjects/blob/40973c188cf5a2dbd5574e5ab54c995b0fd0fce3/ShinKansenTravelExperience/imgs/summary_plt.jpg)
 
-Complete model selection analysis [here](https://github.com/giomvp/AcademicProjects/blob/d892ed547535eb5c82f62663fe59492280278b65/BostonHousesPricePrediction/BostonHousePricePrediction.ipynb).
+Complete model selection analysis [here](https://github.com/giomvp/AcademicProjects/blob/767573a322a7e6cb785101cd4c0d3adba1f25e9e/ShinKansenTravelExperience/ShinkansenTravelExperience.ipynb).
