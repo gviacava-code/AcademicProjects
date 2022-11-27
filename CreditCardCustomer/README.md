@@ -25,6 +25,6 @@ K-Means is performing good. It was able to group data in three different cluster
 
 As a general note the choice of algorithm here will depend on the context and use case, but for this data set any of them will perform good in production.
 
-![Summary Charts](https://github.com/giomvp/AcademicProjects/blob/5b36cf9a000eec3c52c64a75badea0b29f95c820/BostonHousesPricePrediction/img/summary_plt.jpg)
+![Summary Charts]https://github.com/giomvp/AcademicProjects/blob/7f28836048b0f37089b4cca1813341d48a6d3788/CreditCardCustomer/imgs/summary_plt.jpg
 
-Complete model selection analysis [here](https://github.com/giomvp/AcademicProjects/blob/d892ed547535eb5c82f62663fe59492280278b65/BostonHousesPricePrediction/BostonHousePricePrediction.ipynb).
+Complete model selection analysis [here].https://github.com/giomvp/AcademicProjects/blob/7f28836048b0f37089b4cca1813341d48a6d3788/CreditCardCustomer/CreditCardCustomer.ipynb
