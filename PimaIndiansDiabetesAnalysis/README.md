@@ -41,4 +41,4 @@ c. Feature Importance
 
 ![Summary Charts](https://github.com/giomvp/AcademicProjects/blob/72ce0121c2dad1dba1d4c21e33062bff88053a3a/PimaIndiansDiabetesAnalysis/imgs/summary_plt.jpg)
 
-Complete model selection analysis [here](https://github.com/giomvp/AcademicProjects/blob/d892ed547535eb5c82f62663fe59492280278b65/BostonHousesPricePrediction/BostonHousePricePrediction.ipynb).
+Complete model selection analysis [here](https://github.com/giomvp/AcademicProjects/blob/877ca09c742d1270f64592f27257f775e453c057/PimaIndiansDiabetesAnalysis/PimaIndiansDiabetesAnalysis.ipynb).
