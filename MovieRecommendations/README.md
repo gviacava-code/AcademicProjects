@@ -35,4 +35,4 @@ Its performance metrics are:
 
 ![Summary Charts](https://github.com/giomvp/AcademicProjects/blob/5b36cf9a000eec3c52c64a75badea0b29f95c820/BostonHousesPricePrediction/img/summary_plt.jpg)
 
-Complete model selection analysis [here](https://github.com/giomvp/AcademicProjects/blob/d892ed547535eb5c82f62663fe59492280278b65/BostonHousesPricePrediction/BostonHousePricePrediction.ipynb).
+Complete model selection analysis [here](https://github.com/giomvp/AcademicProjects/blob/910adbfc1b250c028b955f266a0111789c0e81bd/MovieRecommendations/MovieRecommendations.ipynb).
