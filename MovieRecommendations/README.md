@@ -33,6 +33,6 @@ Its performance metrics are:
 **Rank-Based Recommendation System** is a good model for all new users who haven’t had interactions with the system yet. And it can coexist with the **svd_algo_optimized** in production environment
 
 
-![Summary Charts](https://github.com/giomvp/AcademicProjects/blob/5b36cf9a000eec3c52c64a75badea0b29f95c820/BostonHousesPricePrediction/img/summary_plt.jpg)
+![rmse](https://github.com/giomvp/AcademicProjects/blob/3984a9c2c5d52119c461e9d9cc3a5222746630c9/MovieRecommendations/imgs/rmse_plt.jpg)
 
 Complete model selection analysis [here](https://github.com/giomvp/AcademicProjects/blob/910adbfc1b250c028b955f266a0111789c0e81bd/MovieRecommendations/MovieRecommendations.ipynb).
