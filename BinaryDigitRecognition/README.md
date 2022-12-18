@@ -36,7 +36,7 @@ Confusion Matrix - Test dataset:
 [1057, 0000]
 [0002, 1145]
 
-![true_vs_Prediction](https://github.com/giomvp/AcademicProjects/blob/5b36cf9a000eec3c52c64a75badea0b29f95c820/BostonHousesPricePrediction/img/summary_plt.jpg)
+![true_vs_Prediction](https://github.com/giomvp/AcademicProjects/blob/4615e05239f64aa27eb246d81f930f36240a6f1a/BinaryDigitRecognition/imgs/predictions_plt.jpg)
 
 Complete model selection analysis [here](https://github.com/giomvp/AcademicProjects/blob/d5ac7371ee69286f91de43ad8e50921057fdcf26/BinaryDigitRecognition/BinaryDigitRecognition.ipynb).
 
