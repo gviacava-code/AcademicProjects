@@ -1,4 +1,4 @@
-# Boston House Price Prediction
+# Binary Handwritten Digit Recognition
 
 ## 1. Problem Statement
 
