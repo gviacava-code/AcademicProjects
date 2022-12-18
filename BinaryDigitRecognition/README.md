@@ -24,7 +24,7 @@ Tensorflow - Keras (api):
 
 ## 4. Results
 
-**BinaryCrossentropy** shows excellent performance of **99% (Accuracy)** ...
+**BinaryCrossentropy - BinaryCrossentropy** shows excellent performance with 99% (Accuracy), meaning that it is able to predict every example image label with no mistake.
 
 Metrics:
 
