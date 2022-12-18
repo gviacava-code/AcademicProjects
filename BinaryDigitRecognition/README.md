@@ -24,7 +24,7 @@ Tensorflow - Keras (api):
 
 ## 4. Results
 
-**Random forest (rf)** shows good and consistent performance results as this model explains **84% (r2_score)** of the variability in the price through its independent variables and can make predictions within **~14% (mape)** of the price value on average.
+**BinaryCrossentropy** shows excellent performance of **99% (Accuracy)** ...
 
 Metrics:
 
@@ -38,5 +38,5 @@ Confusion Matrix - Test dataset:
 
 ![true_vs_Prediction](https://github.com/giomvp/AcademicProjects/blob/5b36cf9a000eec3c52c64a75badea0b29f95c820/BostonHousesPricePrediction/img/summary_plt.jpg)
 
-Complete model selection analysis [here](https://github.com/giomvp/AcademicProjects/blob/d892ed547535eb5c82f62663fe59492280278b65/BostonHousesPricePrediction/BostonHousePricePrediction.ipynb).
+Complete model selection analysis [here](https://github.com/giomvp/AcademicProjects/blob/d5ac7371ee69286f91de43ad8e50921057fdcf26/BinaryDigitRecognition/BinaryDigitRecognition.ipynb).
 
