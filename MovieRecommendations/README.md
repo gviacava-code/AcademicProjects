@@ -1,8 +1,11 @@
 # Movie Recommendations
 
+See complete model selection and analysis [here](https://github.com/giomvp/AcademicProjects/blob/910adbfc1b250c028b955f266a0111789c0e81bd/MovieRecommendations/MovieRecommendations.ipynb).
+
+
 ## 1. Problem Statement
 
-Build a movies recommendation system to recommend relevant movies to users based on their historical interactions 
+Build a movie recommendation system that recommends relevant movies to users based on their historical interactions and other user's preferences.
 
 ## 2. Data Description
 
@@ -35,4 +38,3 @@ Its performance metrics are:
 
 ![rmse](https://github.com/giomvp/AcademicProjects/blob/3984a9c2c5d52119c461e9d9cc3a5222746630c9/MovieRecommendations/imgs/rmse_plt.jpg)
 
-Complete model selection analysis [here](https://github.com/giomvp/AcademicProjects/blob/910adbfc1b250c028b955f266a0111789c0e81bd/MovieRecommendations/MovieRecommendations.ipynb).

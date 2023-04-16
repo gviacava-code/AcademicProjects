@@ -1,5 +1,8 @@
 # Binary Handwritten Digit Recognition
 
+See complete model selection and analysis [here](https://github.com/giomvp/AcademicProjects/blob/d5ac7371ee69286f91de43ad8e50921057fdcf26/BinaryDigitRecognition/BinaryDigitRecognition.ipynb).
+
+
 ## 1. Problem Statement
 
 Use a neural network to recognize the hand-written digits zero and one. This is a binary classification task.
@@ -38,5 +41,4 @@ Confusion Matrix - Test dataset:
 
 ![true_vs_Prediction](https://github.com/giomvp/AcademicProjects/blob/4615e05239f64aa27eb246d81f930f36240a6f1a/BinaryDigitRecognition/imgs/predictions_plt.jpg)
 
-Complete model selection analysis [here](https://github.com/giomvp/AcademicProjects/blob/d5ac7371ee69286f91de43ad8e50921057fdcf26/BinaryDigitRecognition/BinaryDigitRecognition.ipynb).
 

@@ -1,8 +1,10 @@
 # Boston House Price Prediction
 
+See complete model selection and analysis [here](https://github.com/giomvp/AcademicProjects/blob/d892ed547535eb5c82f62663fe59492280278b65/BostonHousesPricePrediction/BostonHousePricePrediction.ipynb).
+
 ## 1. Problem Statement
 
-The problem on hand is to predict the housing prices of a town or a suburb based on the features of the locality provided to us. In the process, we need to identify the most important features in the dataset. We need to employ techniques of data preprocessing and build a linear regression model that predicts the prices for us. 
+Predict house prices in a town or suburb based on the provided features of the locality. Identify the most important features in the dataset to determine the price.
 
 ## 2. Data Description
 
@@ -34,7 +36,5 @@ Metrics:
   3. Cross Validation Accurracy (r2_score): 0.84 (+/- 0.04)
 
 ![Summary Charts](https://github.com/giomvp/AcademicProjects/blob/5b36cf9a000eec3c52c64a75badea0b29f95c820/BostonHousesPricePrediction/img/summary_plt.jpg)
-
-Complete model selection analysis [here](https://github.com/giomvp/AcademicProjects/blob/d892ed547535eb5c82f62663fe59492280278b65/BostonHousesPricePrediction/BostonHousePricePrediction.ipynb).
 
 

@@ -1,8 +1,11 @@
 # Pima Indians Diabetes Analysis
 
+See complete model selection and analysis [here](https://github.com/giomvp/AcademicProjects/blob/877ca09c742d1270f64592f27257f775e453c057/PimaIndiansDiabetesAnalysis/PimaIndiansDiabetesAnalysis.ipynb).
+
+
 ## 1. Problem Statement
 
-Analyze different aspects of Diabetes in the Pima Indians tribe by doing Exploratory Data Analysis
+**Analyze** different aspects of diabetes in the Pima Indians tribe by doing exploratory data analysis and **predicting future cases** based on a given set of parameters.
 
 ## 2. Data Description
 
@@ -41,4 +44,3 @@ c. Feature Importance
 
 ![Summary Charts](https://github.com/giomvp/AcademicProjects/blob/72ce0121c2dad1dba1d4c21e33062bff88053a3a/PimaIndiansDiabetesAnalysis/imgs/summary_plt.jpg)
 
-Complete model selection analysis [here](https://github.com/giomvp/AcademicProjects/blob/877ca09c742d1270f64592f27257f775e453c057/PimaIndiansDiabetesAnalysis/PimaIndiansDiabetesAnalysis.ipynb).
