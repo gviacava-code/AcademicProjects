@@ -5,7 +5,7 @@ See complete model selection and analysis [here](https://github.com/giomvp/Acade
 
 ## 1. Problem Statement
 
-**Analyze** different aspects of diabetes in the Pima Indians tribe by doing exploratory data analysis and **predicting future cases** based on a given set of parameters.
+The key goal is to **analyze** various aspects of diabetes in the Pima Indian tribe by performing exploratory data analysis and to **predict diabetes risk** among Pima Indian women, using a classification machine learning approach.
 
 ## 2. Data Description
 
