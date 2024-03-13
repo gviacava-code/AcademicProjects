@@ -32,7 +32,7 @@ Research was done on a tribe in America which is called the Pima tribe (also kno
 * Test data set  ->  Accuracy: 0.779   |   F1 score: 0.691    |    Precision: 0.679    |   Recall: 0.704
 * Cross Validation Accuracy: 0.716 (+/- 0.030) [DecisionTreeClassifier]
 
-This *Accuracy* factor shows the model is able to predict 72% of observations. A Precision and Recall of also 70 aprox., indicate this model is correctly classifying labels at a good ratio.
+This **Accuracy** factor shows the model is able to predict 72% of observations. A Precision and Recall of also 70 aprox., indicate this model is correctly classifying labels at a good ratio.
 
 **Predictors Glucose, BMI, and Age** are the most significant variables to predict Diabetes given this set of values.
 

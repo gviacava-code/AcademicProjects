@@ -1,9 +1,9 @@
-# Academic-Projects
+# Projects description:
 
-- **Binary Digit Recognition:** Using machine learning to classify handwritten digits as either 0 or 1.
+- **Binary Digit Recognition:** Develop a machine learning model capable of accurately classifying handwritten digits as either 0 or 1 from image data. This project involves techniques such as image preprocessing, feature extraction, and supervised learning algorithms to build a robust classification system. [*- link -*](https://github.com/gviacava-code/MachineLearning/tree/main/BinaryDigitRecognition)
 
-- **Boston Houses Price Prediction:** A model that predicts the value of owner-occupied homes in Boston based on various features of the locality.
+- **Boston Houses Price Prediction:** Build a regression model to predict the median value of owner-occupied homes in the Boston area. The model will leverage various features describing the locality, such as crime rates, accessibility to amenities, and demographic data, to provide accurate price estimates for residential properties. [*- link -*](https://github.com/gviacava-code/MachineLearning/tree/main/BostonHousesPricePrediction)
 
-- **Movie Recommendations:** A movie recommendation system that recommends relevant movies to users based on their historical interactions and other user's preferences.
+- **Movie Recommendations:** Implement a recommender system that analyzes users' movie preferences, ratings, and viewing history to suggest personalized movie recommendations. This project explores collaborative filtering techniques, matrix factorization algorithms, and integrating content-based features to deliver relevant and engaging movie suggestions tailored to each user's taste. [*- link -*](https://github.com/gviacava-code/MachineLearning/tree/main/MovieRecommendations)
 
-- **Pima Indians Diabetes Analysis:**  Using machine learning to analyze medical data and predict the likelihood of diabetes in Pima Indian women.
+- **Pima Indians Diabetes Analysis:** Develop a predictive model using machine learning techniques to identify the likelihood of diabetes in Pima Indian women based on their medical data. This project involves data preprocessing, feature selection, and applying supervised learning algorithms to build an accurate classification model that can assist in early detection and preventive healthcare measures. [*- link -*](https://github.com/gviacava-code/MachineLearning/tree/main/PimaIndiansDiabetesAnalysis)
