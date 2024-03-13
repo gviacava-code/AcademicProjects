@@ -1,11 +1,15 @@
 # Binary Handwritten Digit Recognition
 
-See complete model selection and analysis [here](https://github.com/giomvp/AcademicProjects/blob/d5ac7371ee69286f91de43ad8e50921057fdcf26/BinaryDigitRecognition/BinaryDigitRecognition.ipynb).
+See complete model selection and analysis [- Link](https://github.com/giomvp/AcademicProjects/blob/d5ac7371ee69286f91de43ad8e50921057fdcf26/BinaryDigitRecognition/BinaryDigitRecognition.ipynb).
 
 
 ## 1. Problem Statement
 
-Use a neural network to recognize the hand-written digits zero and one. This is a binary classification task.
+The objective of this project is to develop a robust machine learning model capable of accurately recognizing and classifying handwritten digits as either 0 (zero) or 1 (one) from image data. This is a binary classification task, where the model must learn to distinguish between the two digit classes based on the provided training examples.
+
+The problem addresses the challenge of interpreting and classifying handwritten digits, which can vary significantly in terms of style, thickness, and orientation. The model must be able to extract relevant features from the input images and learn the underlying patterns that differentiate between the two digit classes.
+
+Successful completion of this project will demonstrate proficiency in applying machine learning techniques, specifically neural networks, to solve a real-world binary classification problem involving image data. The insights gained from this project can be extended to other applications involving image recognition and classification tasks.
 
 ## 2. Data Description
 
