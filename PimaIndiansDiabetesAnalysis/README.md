@@ -1,11 +1,13 @@
 # Pima Indians Diabetes Analysis
 
-See complete model selection and analysis [here](https://github.com/giomvp/AcademicProjects/blob/877ca09c742d1270f64592f27257f775e453c057/PimaIndiansDiabetesAnalysis/PimaIndiansDiabetesAnalysis.ipynb).
-
+See complete model selection and analysis - [Link](PimaIndiansDiabetesAnalysis.ipynb)
 
 ## 1. Problem Statement
 
-The key goal is to **analyze** various aspects of diabetes in the Pima Indian tribe by performing exploratory data analysis and to **predict diabetes risk** among Pima Indian women, using a classification machine learning approach.
+The problem addresses the challenge of early detection and preventive healthcare measures for a population with a higher prevalence of diabetes. By analyzing the medical data and building a predictive model, this project aims to provide a valuable tool to healthcare professionals.
+
+ This project contributes to the understanding of diabetes within the Pima Indian community but also demonstrate proficiency in applying machine learning techniques to solve a real-world classification problem involving medical data. The insights gained from this project can be extended to other healthcare applications, aiding in early detection, preventive measures, and personalized treatment plans.
+
 
 ## 2. Data Description
 
@@ -26,7 +28,7 @@ Research was done on a tribe in America which is called the Pima tribe (also kno
 
 ## 4. Results
 
-**Model Decision Tree Classifier (dct) performs ok** with this dataset. Performance metrics are:
+The Decision Tree Classifier (dct) model demonstrated acceptable performance on the Pima Indians Diabetes dataset. The model's effectiveness was evaluated using various metrics on both the training and test datasets, as well as through k-fold cross-validation.
 
 * Train data set ->  Accuracy: 0.814   |   F1 score: 0.749    |    Precision: 0.708    |   Recall: 0.794
 * Test data set  ->  Accuracy: 0.779   |   F1 score: 0.691    |    Precision: 0.679    |   Recall: 0.704
@@ -36,11 +38,12 @@ This **Accuracy** factor shows the model is able to predict 72% of observations.
 
 **Predictors Glucose, BMI, and Age** are the most significant variables to predict Diabetes given this set of values.
 
+While the Decision Tree Classifier (dct) model demonstrated acceptable performance, there is room for improvement. The accuracy, precision, and recall metrics indicate that the model is correctly classifying a reasonable proportion of instances, but further refinement or exploration of alternative models could potentially enhance the predictive performance.
+
 Find below some charts to ilustrate de results:
 
 a. Decision Tree 
 b. Confusion Matrix
 c. Feature Importance
 
-![Summary Charts](https://github.com/giomvp/AcademicProjects/blob/72ce0121c2dad1dba1d4c21e33062bff88053a3a/PimaIndiansDiabetesAnalysis/imgs/summary_plt.jpg)
-
+![Summary Charts](./imgs/summary_plt.jpg)

@@ -1,7 +1,6 @@
 # Binary Handwritten Digit Recognition
 
-See complete model selection and analysis [- Link](https://github.com/giomvp/AcademicProjects/blob/d5ac7371ee69286f91de43ad8e50921057fdcf26/BinaryDigitRecognition/BinaryDigitRecognition.ipynb).
-
+See complete model selection and analysis - [Link](BinaryDigitRecognition.ipynb)
 
 ## 1. Problem Statement
 
@@ -23,25 +22,20 @@ The data set contains 8817 training examples of handwritten digits, limited to z
 
 Tensorflow - Keras (api): 
 
-  * Model: Sequential - Dense
-  * Loss: BinaryCrossentropy
-  * Optimizer: Adam
+* Model: Sequential - Dense
+* Loss: BinaryCrossentropy
+* Optimizer: Adam
 
-* Metric - As the target variable is categorical, accurracy_score, f1_socre, precision_socre, and recall_score were used.
+**Metric** - As the target variable is categorical, accurracy_score, f1_socre, precision_socre, and recall_score were used.
 
 ## 4. Results
 
 The model achieved exceptional performance on both the training and test datasets, with an accuracy of 0.999 and near-perfect F1 scores, precision, and recall values. These metrics indicate that the model is highly accurate in classifying handwritten digits as 0 or 1, with minimal misclassifications.
 
-> Train data set ->  Accuracy: 0.999   |   F1 score: 0.999    |    Precision: 0.999    |   Recall: 1.000
-
-> Test data set  ->  Accuracy: 0.999   |   F1 score: 0.999    |    Precision: 0.999    |   Recall: 0.998
+* Train data set ->  Accuracy: 0.999   |   F1 score: 0.999    |    Precision: 0.999    |   Recall: 1.000
+* Test data set  ->  Accuracy: 0.999   |   F1 score: 0.999    |    Precision: 0.999    |   Recall: 0.998
 
 Overall, the developed Keras NN is a highly accurate machine learning model capable of classifying handwritten digits as 0 or 1. The model's exceptional performance on both the training and test datasets, as well as the low number of misclassifications observed in the confusion matrices, demonstrate the effectiveness of the applied techniques and algorithms.
-
-
-<!-- ![Summary Charts](https://github.com/giomvp/AcademicProjects/blob/72ce0121c2dad1dba1d4c21e33062bff88053a3a/PimaIndiansDiabetesAnalysis/imgs/summary_plt.jpg) -->
-
 
 ![Summary Charts](./imgs/predictions_plt.jpg)
 

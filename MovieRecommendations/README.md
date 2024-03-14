@@ -1,11 +1,12 @@
 # Movie Recommendations
 
-See complete model selection and analysis [here](https://github.com/giomvp/AcademicProjects/blob/910adbfc1b250c028b955f266a0111789c0e81bd/MovieRecommendations/MovieRecommendations.ipynb).
-
+See complete model selection and analysis - [Link](MovieRecommendations.ipynb)
 
 ## 1. Problem Statement
 
-Build a movie recommendation system that recommends relevant movies to users based on their historical interactions and other user's preferences.
+This project is to develop an intelligent and personalized movie recommendation system that suggests relevant and engaging movies to users based on their historical interactions, preferences, and the collective behavior of other users.
+
+The problem addresses the challenge of providing tailored and context-aware recommendations in the vast and ever-growing domain of movies. The recommendation system must learn to understand each user's unique tastes and interests, as well as identify patterns and similarities among users, to deliver recommendations that maximize user satisfaction and engagement.
 
 ## 2. Data Description
 
@@ -17,24 +18,24 @@ The ratings dataset contains the following attributes:
 
 ## 3. Modelling Algorithms
 
-- a.  Knowledge/Rank based recommendation system
-- b.  User Similarity-Based Collaborative filtering
-- c   Item Similarity-Based Collaborative filtering
-- d.  Matrix Factorization Based Collaborative Filtering
+* Knowledge/Rank based recommendation system
+* User Similarity-Based Collaborative filtering
+* Item Similarity-Based Collaborative filtering
+* Matrix Factorization Based Collaborative Filtering
 
 *Metrics* - As the target variable is categorical, accurracy_score, f1_socre, precision_socre, and recall_score were used.
 
 ## 4. Results
 
-Singular Value Decomposition (SVD) **svd_algo_optimized** may be considered as the best performing model for this dataset.	
+The project aimed to develop an effective movie recommendation system, and several models and approaches were explored. The results suggest that the Singular Value Decomposition (SVD) algorithm, specifically the svd_algo_optimized model (tuned hyperparameters) , performed the best for this dataset.
 
-Its performance metrics are:
+Performance Metrics for svd_algo_optimized:
 
-1. RMSE: 0.899653
-2. Precision = 0.732 & Recall = 0.526 at K = 10 (Top 10 recommendations)
+* Root Mean Squared Error (RMSE): The model achieved an RMSE of 0.899653, which indicates a relatively low error rate in predicting the ratings for user-movie pairs.
+* Precision and Recall: When considering the top 10 recommendations (K = 10), the model demonstrated a precision of 0.732 and a recall of 0.526. These metrics evaluate the model's ability to recommend relevant and accurate movies among the top recommendations.
 
-**Rank-Based Recommendation System** is a good model for all new users who haven’t had interactions with the system yet. And it can coexist with the **svd_algo_optimized** in production environment
+Overall, the project successfully implemented and evaluated different recommendation algorithms, identifying the svd_algo_optimized model as the best performer for the given dataset. The combination of the SVD model and the Rank-Based Recommendation System provides a robust solution for delivering personalized movie recommendations to both existing and new users.
 
 
-![rmse](https://github.com/giomvp/AcademicProjects/blob/3984a9c2c5d52119c461e9d9cc3a5222746630c9/MovieRecommendations/imgs/rmse_plt.jpg)
+![rmse](./imgs/rmse_plt.jpg)
 
